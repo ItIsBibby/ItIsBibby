@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a learning technologist at Sheffield Hallam University, and I like creating accessible technology that makes life easier.
+I'm currently studying web development with HyperionDev
