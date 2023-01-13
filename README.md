@@ -1,19 +1,17 @@
-### Hi there 👋
+### Hi! Here's a little about me:
+I'm a learning technologist at Sheffield Hallam University. I have been working with learning technology since 2019, and I am now exploring how to create my own software and applications.
+I'm currently studying web development with HyperionDev.
 
-<!--
-**ItIsBibby/ItIsBibby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me on LinkedIn at: https://www.linkedin.com/in/joseph-bibby-367bb9139/
 
-Here are some ideas to get you started:
+## Technical Experience
+### Languages
+Javascript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Physical Computing
+Former IT Technician, Raspberry Pi Hobbyist
 
-I'm a learning technologist at Sheffield Hallam University, and I like creating accessible technology that makes life easier.
-I'm currently studying web development with HyperionDev
+## Fun Facts
+- I love gaming. Some of my favourites are Bloodborne, Outer Wilds, Shadow of the Colossus, and Hollow Knight. I'm currently playing Metroid Dread, and The Rewinder.
+- I'm a big film nerd. My favourites can be found here: https://letterboxd.com/joseph_bibby/
+- I'm also a freelance photographer, mostly for musicians and music events.
