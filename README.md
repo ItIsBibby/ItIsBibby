@@ -12,6 +12,6 @@ Javascript, HTML, CSS
 Former IT Technician, Raspberry Pi Hobbyist
 
 ## Fun Facts
-- I love gaming. Some of my favourites are Bloodborne, Outer Wilds, Shadow of the Colossus, and Hollow Knight. I'm currently playing Metroid Dread, and The Rewinder.
+- I love gaming. Some of my favourites are Bloodborne, Outer Wilds, Shadow of the Colossus, and Hollow Knight. I'm currently playing Tunic, and The Rewinder.
 - I'm a big film nerd. My favourites can be found here: https://letterboxd.com/joseph_bibby/
 - I'm also a freelance photographer, mostly for musicians and music events.
