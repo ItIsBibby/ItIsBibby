@@ -5,11 +5,14 @@ I recently completed a web development bootcamp with HyperionDev.
 You can find me on LinkedIn at: https://www.linkedin.com/in/joseph-bibby-367bb9139/
 
 ## Technical Experience
-### Languages
-Javascript, HTML, CSS
+### Languages and Frameworks
+Javascript, React, HTML, CSS
 
 ### Physical Computing
 Former IT Technician, Raspberry Pi Hobbyist
+
+### Currently Learning
+Python
 
 ## Fun Facts
 - I love gaming. Some of my favourites are Bloodborne, Outer Wilds, Shadow of the Colossus, and Hollow Knight. I'm currently playing Tunic, and The Rewinder.
