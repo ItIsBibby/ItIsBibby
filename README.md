@@ -12,7 +12,7 @@ Javascript, React, HTML, CSS
 Former IT Technician, Raspberry Pi Hobbyist
 
 ### Currently Learning
-Python
+Unity, C#
 
 ## Fun Facts
 - I love gaming. Some of my favourites are Bloodborne, Outer Wilds, Shadow of the Colossus, and Hollow Knight. I'm currently playing Tunic, and The Rewinder.
