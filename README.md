@@ -1,12 +1,12 @@
 ### Hi! Here's a little about me:
-I'm a learning technologist at Sheffield Hallam University. I have been working with learning technology since 2019, and I am now exploring how to create my own software and applications.
+I'm a systems administrator at The University of Sheffield. I have been working with learning technology since 2019, and I am now exploring how to create my own software and applications.
 I recently completed a web development bootcamp with HyperionDev.
 
 You can find me on LinkedIn at: https://www.linkedin.com/in/joseph-bibby-367bb9139/
 
 ## Technical Experience
 ### Languages and Frameworks
-Javascript, React, HTML, CSS
+Javascript, React, HTML, CSS, Python, SQL
 
 ### Physical Computing
 Former IT Technician, Raspberry Pi Hobbyist
